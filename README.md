@@ -1,5 +1,5 @@
 # Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+
 # Spotify Clone Frontend
 
 A frontend Spotify clone application built with React and Redux. This project mimics the core functionalities of Spotify, including user authentication, music streaming, playlist management, and more.
